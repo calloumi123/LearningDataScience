@@ -1,0 +1,33 @@
+Document Processing Experiments Repository
+This repository contains a collection of Jupyter notebooks and experimental code developed during my free time (weekends and after work hours) to explore various tools and techniques for document processing. The experiments here are inspired by challenges encountered in my professional work, but use mocked-up data and are not directly used in my job.
+Purpose
+The primary goals of this repository are:
+
+To experiment with different approaches to document processing problems
+To gain a deeper understanding of complex issues before developing scaled, production-ready solutions
+To showcase my thought process and problem-solving approach
+To potentially help others who might be facing similar challenges
+
+Content
+You'll find a variety of notebooks covering topics such as:
+
+Basic data visualizations
+Training and experimentation with NLP language models
+Application of various document processing techniques
+
+Technology Stack
+The experiments primarily use the following technologies:
+
+WSL2 (Windows Subsystem for Linux 2)
+CUDA
+PyTorch
+scikit-learn
+pandas
+FastAI
+
+Important Notes
+
+Code Quality: The code quality in these notebooks may not be representative of my professional work. These are quick experiments and proofs of concept, often created to explore ideas rapidly.
+Viewing Notebooks: The notebooks can be viewed using the nb command on my personal machine.
+Data: All data used in these notebooks is mocked up and does not contain any sensitive or proprietary information.
+Purpose: While inspired by real-world problems, these experiments are not production-ready solutions. They are meant to aid in understanding problems and exploring potential approaches.
