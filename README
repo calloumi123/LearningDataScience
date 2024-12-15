@@ -24,6 +24,9 @@ PyTorch
 scikit-learn
 pandas
 FastAI
+s3(AWS)
+lamda(AWS)
+SAGEMAKER*(AWS)
 
 Important Notes
 
